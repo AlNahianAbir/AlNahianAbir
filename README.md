@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @AlNahianAbir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋, I'm Abdullah Al Nahian  
+
+🎓 CS undergrad | 📊 ML & Data Enthusiast | 🤖 Robotics Learner  
+
+- 🔭 Currently working on: Machine Learning, Game Dev, Robotics
+- 🌱 Learning: ROS 2, Reinforcement Learning, C#, Bioinformatics AI  
+- 🎮 Building solo indie games  
+
+📫 Reach me at: [LinkedIn](#) | [Twitter](#) | [Email](#)  
 
 <!---
 AlNahianAbir/AlNahianAbir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
